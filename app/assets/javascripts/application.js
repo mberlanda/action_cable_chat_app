@@ -15,8 +15,10 @@
 //= require turbolinks
 //= require_tree .
 
+/*
 greeting_doubler('¡Hola, mundo!');
 
 function greeting_doubler(phrase){
   alert(phrase + " " + phrase);
 }
+*/
